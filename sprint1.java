@@ -57,6 +57,7 @@ public class sprint1 {
         }
         
         sc.close();
+        System.out.println("Closing Application, Check for " + fileName + " in the same folder as this program.");
         
     }
 }
