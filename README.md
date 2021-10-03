@@ -3,7 +3,7 @@
 Due to the ever changing world of software I thought it important to branch out and test myself in more than just 1 language. I decided to write this dip my toes into Java development by making a simple program that could write to a .txt file. I modeled after asking the user what Game they wanted recorded, what platform they could play it on, and to give their rating. The purpose was to help myself keep track of my growing library of videogames while also creating a program that could be reworded to easily do something like keep inventory. The main purpose of this code is to give me a brief glimpse into the world of Java programming.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/u3_5_reaZPc)
 
 # Development Environment
 
@@ -27,3 +27,4 @@ Here is a list of ways I hope to improve the program as time goes by
 * Add the ability to edit or remove lines within the file
 * Allow for the user to fully view the file
 * Allow basic sorting such as: display all games I've rated a 10
+* Error handling! Don't input a letter when it asks for a number.
